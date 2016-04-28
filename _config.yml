@@ -1,0 +1,28 @@
+name: FRANCAMIA
+favicon: null
+layout_spectrum: 0.983386276755482
+typography_spectrum: 0.6145170228555799
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7407541435677558
+  lightness: 0.9487768961116672
+  saturation: 0.6394846425391734
+  rhythmicContrast: 0.09607742424122989
+purpose: []
